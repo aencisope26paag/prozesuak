@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "zerbitzaria\\zerbitzaria.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "bezeroa\\bezeroa.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Ander\\interfazeen-garapena\\interfazeak\\zerbitzaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12785956-8DF2-40DF-54CB-B79826485BCE}|bezeroa\\bezeroa.csproj|c:\\ander\\interfazeen-garapena\\interfazeak\\zerbitzaria\\bezeroa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12785956-8DF2-40DF-54CB-B79826485BCE}|bezeroa\\bezeroa.csproj|solutionrelative:bezeroa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A80AF-3690-6723-FF68-557F2796B272}|zerbitzari-bezero-adib\\zerbitzaria.csproj|c:\\ander\\interfazeen-garapena\\interfazeak\\zerbitzaria\\zerbitzari-bezero-adib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78A80AF-3690-6723-FF68-557F2796B272}|zerbitzari-bezero-adib\\zerbitzaria.csproj|solutionrelative:zerbitzari-bezero-adib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A80AF-3690-6723-FF68-557F2796B272}|zerbitzari-bezero-adib\\zerbitzaria.csproj|c:\\ander\\interfazeen-garapena\\interfazeak\\zerbitzaria\\zerbitzari-bezero-adib\\zerbitzaria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A78A80AF-3690-6723-FF68-557F2796B272}|zerbitzari-bezero-adib\\zerbitzaria.csproj|solutionrelative:zerbitzari-bezero-adib\\zerbitzaria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12785956-8DF2-40DF-54CB-B79826485BCE}|bezeroa\\bezeroa.csproj|c:\\ander\\interfazeen-garapena\\interfazeak\\zerbitzaria\\bezeroa\\bezeroa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12785956-8DF2-40DF-54CB-B79826485BCE}|bezeroa\\bezeroa.csproj|solutionrelative:bezeroa\\bezeroa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "zerbitzaria.csproj",
+              "DocumentMoniker": "C:\\Ander\\interfazeen-garapena\\interfazeak\\zerbitzaria\\zerbitzari-bezero-adib\\zerbitzaria.csproj",
+              "RelativeDocumentMoniker": "zerbitzari-bezero-adib\\zerbitzaria.csproj",
+              "ToolTip": "C:\\Ander\\interfazeen-garapena\\interfazeak\\zerbitzaria\\zerbitzari-bezero-adib\\zerbitzaria.csproj",
+              "RelativeToolTip": "zerbitzari-bezero-adib\\zerbitzaria.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-17T09:33:11.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bezeroa.csproj",
+              "DocumentMoniker": "C:\\Ander\\interfazeen-garapena\\interfazeak\\zerbitzaria\\bezeroa\\bezeroa.csproj",
+              "RelativeDocumentMoniker": "bezeroa\\bezeroa.csproj",
+              "ToolTip": "C:\\Ander\\interfazeen-garapena\\interfazeak\\zerbitzaria\\bezeroa\\bezeroa.csproj",
+              "RelativeToolTip": "bezeroa\\bezeroa.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-17T09:33:04.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Ander\\interfazeen-garapena\\interfazeak\\zerbitzaria\\bezeroa\\Program.cs",
+              "RelativeDocumentMoniker": "bezeroa\\Program.cs",
+              "ToolTip": "C:\\Ander\\interfazeen-garapena\\interfazeak\\zerbitzaria\\bezeroa\\Program.cs",
+              "RelativeToolTip": "bezeroa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T09:32:50.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Ander\\interfazeen-garapena\\interfazeak\\zerbitzaria\\zerbitzari-bezero-adib\\Program.cs",
+              "RelativeDocumentMoniker": "zerbitzari-bezero-adib\\Program.cs",
+              "ToolTip": "C:\\Ander\\interfazeen-garapena\\interfazeak\\zerbitzaria\\zerbitzari-bezero-adib\\Program.cs",
+              "RelativeToolTip": "zerbitzari-bezero-adib\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T09:31:57.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "irudi-geometrikoak\\bezeroa.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "zerbitzaria\\zerbitzaria.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

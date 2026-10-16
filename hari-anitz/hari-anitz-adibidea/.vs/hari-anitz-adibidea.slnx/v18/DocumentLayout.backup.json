@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Ander\\zerbitzu-prozesuak\\prozesuak\\hari-anitz\\hari-anitz-adibidea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A817C83-B0D0-4661-8E61-BC85524EC487}|hari-anitz-adibidea\\hari-anitz-adibidea.csproj|c:\\ander\\zerbitzu-prozesuak\\prozesuak\\hari-anitz\\hari-anitz-adibidea\\hari-anitz-adibidea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A817C83-B0D0-4661-8E61-BC85524EC487}|hari-anitz-adibidea\\hari-anitz-adibidea.csproj|solutionrelative:hari-anitz-adibidea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Ander\\zerbitzu-prozesuak\\prozesuak\\hari-anitz\\hari-anitz-adibidea\\hari-anitz-adibidea\\Program.cs",
+              "RelativeDocumentMoniker": "hari-anitz-adibidea\\Program.cs",
+              "ToolTip": "C:\\Ander\\zerbitzu-prozesuak\\prozesuak\\hari-anitz\\hari-anitz-adibidea\\hari-anitz-adibidea\\Program.cs",
+              "RelativeToolTip": "hari-anitz-adibidea\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T09:18:58.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

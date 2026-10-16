@@ -1,0 +1,14 @@
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eragiketak\eragiketak\bin\Debug\net10.0\eragiketak.exe
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eragiketak\eragiketak\bin\Debug\net10.0\eragiketak.deps.json
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eragiketak\eragiketak\bin\Debug\net10.0\eragiketak.runtimeconfig.json
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eragiketak\eragiketak\bin\Debug\net10.0\eragiketak.dll
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eragiketak\eragiketak\bin\Debug\net10.0\eragiketak.pdb
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eragiketak\eragiketak\obj\Debug\net10.0\eragiketak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eragiketak\eragiketak\obj\Debug\net10.0\eragiketak.AssemblyInfoInputs.cache
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eragiketak\eragiketak\obj\Debug\net10.0\eragiketak.AssemblyInfo.cs
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eragiketak\eragiketak\obj\Debug\net10.0\eragiketak.csproj.CoreCompileInputs.cache
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eragiketak\eragiketak\obj\Debug\net10.0\eragiketak.dll
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eragiketak\eragiketak\obj\Debug\net10.0\refint\eragiketak.dll
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eragiketak\eragiketak\obj\Debug\net10.0\eragiketak.pdb
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eragiketak\eragiketak\obj\Debug\net10.0\eragiketak.genruntimeconfig.cache
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eragiketak\eragiketak\obj\Debug\net10.0\ref\eragiketak.dll

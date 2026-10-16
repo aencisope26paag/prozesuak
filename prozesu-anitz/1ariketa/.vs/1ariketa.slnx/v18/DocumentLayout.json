@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Ander\\zerbitzu-prozesuak\\prozesuak\\1ariketa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9661948D-68DE-AAF1-E9CB-4950309D18D3}|1ariketa\\1ariketa.csproj|c:\\ander\\zerbitzu-prozesuak\\prozesuak\\1ariketa\\1ariketa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9661948D-68DE-AAF1-E9CB-4950309D18D3}|1ariketa\\1ariketa.csproj|solutionrelative:1ariketa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9661948D-68DE-AAF1-E9CB-4950309D18D3}|1ariketa\\1ariketa.csproj|c:\\ander\\zerbitzu-prozesuak\\prozesuak\\1ariketa\\1ariketa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9661948D-68DE-AAF1-E9CB-4950309D18D3}|1ariketa\\1ariketa.csproj|solutionrelative:1ariketa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Ander\\zerbitzu-prozesuak\\prozesuak\\1ariketa\\1ariketa\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "1ariketa\\MainWindow.xaml",
+              "ToolTip": "C:\\Ander\\zerbitzu-prozesuak\\prozesuak\\1ariketa\\1ariketa\\MainWindow.xaml",
+              "RelativeToolTip": "1ariketa\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-15T08:57:59.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Ander\\zerbitzu-prozesuak\\prozesuak\\1ariketa\\1ariketa\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "1ariketa\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Ander\\zerbitzu-prozesuak\\prozesuak\\1ariketa\\1ariketa\\MainWindow.xaml.cs",
+              "RelativeToolTip": "1ariketa\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T08:57:58.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

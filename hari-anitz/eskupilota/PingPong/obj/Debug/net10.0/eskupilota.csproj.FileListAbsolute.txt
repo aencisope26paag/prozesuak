@@ -1,0 +1,14 @@
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\PingPong\PingPong\bin\Debug\net10.0\eskupilota.exe
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\PingPong\PingPong\bin\Debug\net10.0\eskupilota.deps.json
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\PingPong\PingPong\bin\Debug\net10.0\eskupilota.runtimeconfig.json
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\PingPong\PingPong\bin\Debug\net10.0\eskupilota.dll
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\PingPong\PingPong\bin\Debug\net10.0\eskupilota.pdb
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\PingPong\PingPong\obj\Debug\net10.0\eskupilota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\PingPong\PingPong\obj\Debug\net10.0\eskupilota.AssemblyInfoInputs.cache
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\PingPong\PingPong\obj\Debug\net10.0\eskupilota.AssemblyInfo.cs
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\PingPong\PingPong\obj\Debug\net10.0\eskupilota.csproj.CoreCompileInputs.cache
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\PingPong\PingPong\obj\Debug\net10.0\eskupilota.dll
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\PingPong\PingPong\obj\Debug\net10.0\refint\eskupilota.dll
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\PingPong\PingPong\obj\Debug\net10.0\eskupilota.pdb
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\PingPong\PingPong\obj\Debug\net10.0\eskupilota.genruntimeconfig.cache
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\PingPong\PingPong\obj\Debug\net10.0\ref\eskupilota.dll

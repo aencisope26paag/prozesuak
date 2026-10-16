@@ -1,0 +1,14 @@
+C:\Ander\zerbitzu-prozesuak\prozesuak\irudi-geometrikoak\zerbitzaria\bin\Debug\net10.0\zerbitzaria.exe
+C:\Ander\zerbitzu-prozesuak\prozesuak\irudi-geometrikoak\zerbitzaria\bin\Debug\net10.0\zerbitzaria.deps.json
+C:\Ander\zerbitzu-prozesuak\prozesuak\irudi-geometrikoak\zerbitzaria\bin\Debug\net10.0\zerbitzaria.runtimeconfig.json
+C:\Ander\zerbitzu-prozesuak\prozesuak\irudi-geometrikoak\zerbitzaria\bin\Debug\net10.0\zerbitzaria.dll
+C:\Ander\zerbitzu-prozesuak\prozesuak\irudi-geometrikoak\zerbitzaria\bin\Debug\net10.0\zerbitzaria.pdb
+C:\Ander\zerbitzu-prozesuak\prozesuak\irudi-geometrikoak\zerbitzaria\obj\Debug\net10.0\zerbitzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ander\zerbitzu-prozesuak\prozesuak\irudi-geometrikoak\zerbitzaria\obj\Debug\net10.0\zerbitzaria.AssemblyInfoInputs.cache
+C:\Ander\zerbitzu-prozesuak\prozesuak\irudi-geometrikoak\zerbitzaria\obj\Debug\net10.0\zerbitzaria.AssemblyInfo.cs
+C:\Ander\zerbitzu-prozesuak\prozesuak\irudi-geometrikoak\zerbitzaria\obj\Debug\net10.0\zerbitzaria.csproj.CoreCompileInputs.cache
+C:\Ander\zerbitzu-prozesuak\prozesuak\irudi-geometrikoak\zerbitzaria\obj\Debug\net10.0\zerbitzaria.dll
+C:\Ander\zerbitzu-prozesuak\prozesuak\irudi-geometrikoak\zerbitzaria\obj\Debug\net10.0\refint\zerbitzaria.dll
+C:\Ander\zerbitzu-prozesuak\prozesuak\irudi-geometrikoak\zerbitzaria\obj\Debug\net10.0\zerbitzaria.pdb
+C:\Ander\zerbitzu-prozesuak\prozesuak\irudi-geometrikoak\zerbitzaria\obj\Debug\net10.0\zerbitzaria.genruntimeconfig.cache
+C:\Ander\zerbitzu-prozesuak\prozesuak\irudi-geometrikoak\zerbitzaria\obj\Debug\net10.0\ref\zerbitzaria.dll

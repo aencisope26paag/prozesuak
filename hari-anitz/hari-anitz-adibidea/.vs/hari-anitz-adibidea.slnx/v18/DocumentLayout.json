@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Ander\\zerbitzu-prozesuak\\prozesuak\\hari-anitz\\hari-anitz-adibidea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A817C83-B0D0-4661-8E61-BC85524EC487}|hari-anitz-adibidea\\hari-anitz-adibidea.csproj|c:\\ander\\zerbitzu-prozesuak\\prozesuak\\hari-anitz\\hari-anitz-adibidea\\hari-anitz-adibidea\\asinkronoa-when-any.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A817C83-B0D0-4661-8E61-BC85524EC487}|hari-anitz-adibidea\\hari-anitz-adibidea.csproj|solutionrelative:hari-anitz-adibidea\\asinkronoa-when-any.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A817C83-B0D0-4661-8E61-BC85524EC487}|hari-anitz-adibidea\\hari-anitz-adibidea.csproj|c:\\ander\\zerbitzu-prozesuak\\prozesuak\\hari-anitz\\hari-anitz-adibidea\\hari-anitz-adibidea\\asinkronoa-await.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A817C83-B0D0-4661-8E61-BC85524EC487}|hari-anitz-adibidea\\hari-anitz-adibidea.csproj|solutionrelative:hari-anitz-adibidea\\asinkronoa-await.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A817C83-B0D0-4661-8E61-BC85524EC487}|hari-anitz-adibidea\\hari-anitz-adibidea.csproj|c:\\ander\\zerbitzu-prozesuak\\prozesuak\\hari-anitz\\hari-anitz-adibidea\\hari-anitz-adibidea\\sinkronoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A817C83-B0D0-4661-8E61-BC85524EC487}|hari-anitz-adibidea\\hari-anitz-adibidea.csproj|solutionrelative:hari-anitz-adibidea\\sinkronoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "asinkronoa-await.cs",
+              "DocumentMoniker": "C:\\Ander\\zerbitzu-prozesuak\\prozesuak\\hari-anitz\\hari-anitz-adibidea\\hari-anitz-adibidea\\asinkronoa-await.cs",
+              "RelativeDocumentMoniker": "hari-anitz-adibidea\\asinkronoa-await.cs",
+              "ToolTip": "C:\\Ander\\zerbitzu-prozesuak\\prozesuak\\hari-anitz\\hari-anitz-adibidea\\hari-anitz-adibidea\\asinkronoa-await.cs",
+              "RelativeToolTip": "hari-anitz-adibidea\\asinkronoa-await.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T09:23:36.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "asinkronoa-when-any.cs",
+              "DocumentMoniker": "C:\\Ander\\zerbitzu-prozesuak\\prozesuak\\hari-anitz\\hari-anitz-adibidea\\hari-anitz-adibidea\\asinkronoa-when-any.cs",
+              "RelativeDocumentMoniker": "hari-anitz-adibidea\\asinkronoa-when-any.cs",
+              "ToolTip": "C:\\Ander\\zerbitzu-prozesuak\\prozesuak\\hari-anitz\\hari-anitz-adibidea\\hari-anitz-adibidea\\asinkronoa-when-any.cs",
+              "RelativeToolTip": "hari-anitz-adibidea\\asinkronoa-when-any.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T09:21:35.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sinkronoa.cs",
+              "DocumentMoniker": "C:\\Ander\\zerbitzu-prozesuak\\prozesuak\\hari-anitz\\hari-anitz-adibidea\\hari-anitz-adibidea\\sinkronoa.cs",
+              "RelativeDocumentMoniker": "hari-anitz-adibidea\\sinkronoa.cs",
+              "ToolTip": "C:\\Ander\\zerbitzu-prozesuak\\prozesuak\\hari-anitz\\hari-anitz-adibidea\\hari-anitz-adibidea\\sinkronoa.cs",
+              "RelativeToolTip": "hari-anitz-adibidea\\sinkronoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T09:18:58.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

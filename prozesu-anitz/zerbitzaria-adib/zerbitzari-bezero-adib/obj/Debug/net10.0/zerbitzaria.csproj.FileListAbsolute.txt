@@ -1,0 +1,15 @@
+C:\Ander\interfazeen-garapena\interfazeak\zerbitzaria\zerbitzari-bezero-adib\bin\Debug\net10.0\zerbitzaria.exe
+C:\Ander\interfazeen-garapena\interfazeak\zerbitzaria\zerbitzari-bezero-adib\bin\Debug\net10.0\zerbitzaria.deps.json
+C:\Ander\interfazeen-garapena\interfazeak\zerbitzaria\zerbitzari-bezero-adib\bin\Debug\net10.0\zerbitzaria.runtimeconfig.json
+C:\Ander\interfazeen-garapena\interfazeak\zerbitzaria\zerbitzari-bezero-adib\bin\Debug\net10.0\zerbitzaria.dll
+C:\Ander\interfazeen-garapena\interfazeak\zerbitzaria\zerbitzari-bezero-adib\bin\Debug\net10.0\zerbitzaria.pdb
+C:\Ander\interfazeen-garapena\interfazeak\zerbitzaria\zerbitzari-bezero-adib\obj\Debug\net10.0\zerbitzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ander\interfazeen-garapena\interfazeak\zerbitzaria\zerbitzari-bezero-adib\obj\Debug\net10.0\zerbitzaria.AssemblyInfoInputs.cache
+C:\Ander\interfazeen-garapena\interfazeak\zerbitzaria\zerbitzari-bezero-adib\obj\Debug\net10.0\zerbitzaria.AssemblyInfo.cs
+C:\Ander\interfazeen-garapena\interfazeak\zerbitzaria\zerbitzari-bezero-adib\obj\Debug\net10.0\zerbitzaria.csproj.CoreCompileInputs.cache
+C:\Ander\interfazeen-garapena\interfazeak\zerbitzaria\zerbitzari-bezero-adib\obj\Debug\net10.0\zerbitzaria.sourcelink.json
+C:\Ander\interfazeen-garapena\interfazeak\zerbitzaria\zerbitzari-bezero-adib\obj\Debug\net10.0\zerbitzaria.dll
+C:\Ander\interfazeen-garapena\interfazeak\zerbitzaria\zerbitzari-bezero-adib\obj\Debug\net10.0\refint\zerbitzaria.dll
+C:\Ander\interfazeen-garapena\interfazeak\zerbitzaria\zerbitzari-bezero-adib\obj\Debug\net10.0\zerbitzaria.pdb
+C:\Ander\interfazeen-garapena\interfazeak\zerbitzaria\zerbitzari-bezero-adib\obj\Debug\net10.0\zerbitzaria.genruntimeconfig.cache
+C:\Ander\interfazeen-garapena\interfazeak\zerbitzaria\zerbitzari-bezero-adib\obj\Debug\net10.0\ref\zerbitzaria.dll

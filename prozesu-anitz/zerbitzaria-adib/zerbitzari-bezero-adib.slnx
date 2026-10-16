@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="bezeroa/bezeroa.csproj" />
+  <Project Path="zerbitzari-bezero-adib/zerbitzaria.csproj" />
+</Solution>

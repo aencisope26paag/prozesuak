@@ -1,0 +1,14 @@
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eskupilota-binaka\eskupilota-binaka\bin\Debug\net10.0\eskupilota-binaka.exe
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eskupilota-binaka\eskupilota-binaka\bin\Debug\net10.0\eskupilota-binaka.deps.json
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eskupilota-binaka\eskupilota-binaka\bin\Debug\net10.0\eskupilota-binaka.runtimeconfig.json
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eskupilota-binaka\eskupilota-binaka\bin\Debug\net10.0\eskupilota-binaka.dll
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eskupilota-binaka\eskupilota-binaka\bin\Debug\net10.0\eskupilota-binaka.pdb
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eskupilota-binaka\eskupilota-binaka\obj\Debug\net10.0\eskupilota-binaka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eskupilota-binaka\eskupilota-binaka\obj\Debug\net10.0\eskupilota-binaka.AssemblyInfoInputs.cache
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eskupilota-binaka\eskupilota-binaka\obj\Debug\net10.0\eskupilota-binaka.AssemblyInfo.cs
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eskupilota-binaka\eskupilota-binaka\obj\Debug\net10.0\eskupilota-binaka.csproj.CoreCompileInputs.cache
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eskupilota-binaka\eskupilota-binaka\obj\Debug\net10.0\eskupilota-binaka.dll
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eskupilota-binaka\eskupilota-binaka\obj\Debug\net10.0\refint\eskupilota-binaka.dll
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eskupilota-binaka\eskupilota-binaka\obj\Debug\net10.0\eskupilota-binaka.pdb
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eskupilota-binaka\eskupilota-binaka\obj\Debug\net10.0\eskupilota-binaka.genruntimeconfig.cache
+C:\Ander\zerbitzu-prozesuak\prozesuak\hari-anitz\eskupilota-binaka\eskupilota-binaka\obj\Debug\net10.0\ref\eskupilota-binaka.dll
